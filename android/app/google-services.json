@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "603527690250",
+    "project_id": "chatterapp-450eb",
+    "storage_bucket": "chatterapp-450eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603527690250:android:0600ee714d5f0662bc47f3",
+        "android_client_info": {
+          "package_name": "com.example.chatterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603527690250-1vj8fdgcksm21iujh234mnksrm2uia99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGZvg8wjUrCe83EzT-5gHC8HdivVVqwEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603527690250-1vj8fdgcksm21iujh234mnksrm2uia99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
